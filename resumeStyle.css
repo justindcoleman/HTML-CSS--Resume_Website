@@ -1,0 +1,26 @@
+.resumeBlockCurrent{
+color: white;
+}
+
+.resumeBlockOlder{
+color:white;
+}
+
+.proTrain{
+	color: grey;
+}
+
+ol, li{
+	font-family: Garamond;
+	color:grey;
+}
+
+h3 {
+	color: white;
+}
+
+body{
+	text-align: left;
+	font-family: Garamond;
+	background-image: url("background/blackbackground.jpg");
+}

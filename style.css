@@ -1,0 +1,29 @@
+.topRightNavigation {
+	background-color: #white;
+	padding-top: 5px;
+	padding-left: 13px;
+	padding-right: 0px;
+	max-height: 15%;
+	max-width: 50%;
+	border: 0px solid black;	
+}
+
+.bodyMain {
+background-color: white;
+background-image: url("background/paintman2.jpg");
+background-repeat: no-repeat;
+}
+
+.intro {
+	font-family: Garamond;
+	border: 3px double black;
+	padding: 5px;
+	text-align: center;
+	margin: 0;
+	position: absolute;
+	top: 52%;
+	left: 30%;
+	font-size: 20px;
+}
+
+a:hover {opacity: .6 }
